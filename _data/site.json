@@ -11,6 +11,7 @@
 		"WhatsApp": null,
 		"RSS": "/feed.xml"
 	},
+	"chobble_link": "https://chobble.com/services/chobble-template/",
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
 	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
