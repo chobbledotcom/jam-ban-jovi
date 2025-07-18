@@ -1,7 +1,7 @@
 ---
 permalink: "/"
 layout: "home.html"
-header_text: Welcome to Jam Ban Jovi
+header_text: "Jam Ban Jovi: Banjo Lessons"
 header_image: /images/banjo.jpg
 subtitle: Professional Music Lessons in Banjo, Guitar & Songwriting
 meta_title: Jam Ban Jovi | Professional Music Lessons
