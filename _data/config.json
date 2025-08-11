@@ -1,0 +1,18 @@
+{
+	"name": "Jam Ban Jovi",
+	"formspark_id": "xCVJ160YJ",
+	"botpoison_public_key": "pk_bbb182a9-1ff3-4d9a-839c-06e45f41a6e6",
+	"url": "https://jambanjovi.co.uk",
+	"socials": {
+		"Facebook": null,
+		"Instagram": "https://www.instagram.com/jam_ban_jovi",
+		"TikTok": null,
+		"Google": null,
+		"WhatsApp": null,
+		"RSS": "/feed.xml"
+	},
+	"chobble_link": "https://chobble.com/services/chobble-template/",
+	"sticky_mobile_nav": true,
+	"horizontal_nav": true,
+	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
+}
